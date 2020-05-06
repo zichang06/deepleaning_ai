@@ -4,3 +4,5 @@
 *.csv
 *.wav
 *.7z
+*.ipynb
+*.weights
