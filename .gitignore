@@ -6,3 +6,5 @@
 *.7z
 *.ipynb
 *.weights
+*.npy
+*.txt
